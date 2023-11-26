@@ -1,0 +1,11 @@
+Se pudo observar que la pagina https://demoblaze.com/ de cara a:
+
+Pruebas manuales:
+- Esta permitiendo enviar una orden aunque no existan elementos en el carrito
+- No esta validando los tipos ni longitudes de campos en el formulario de compra. 
+- No pide autenticacion para realziar los procesos
+
+Pruebas Automaticas:
+- Algunos elementos no estan compuestos como se debe, por ejemplo el formulario de compra de orden no se esta manejando dentro de un modal
+- El mensaje de confirmacion no se esta manejando en un elemnto de alerta
+- Al momento de navegar entre paginas, aunque la pagina indique que cargo sus elementos aun no cargan del todo. Por lo cual se agregaron wait for an element appear, para poder realizar el flujo de forma satisfactoria
