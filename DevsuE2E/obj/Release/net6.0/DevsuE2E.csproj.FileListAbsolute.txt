@@ -23,13 +23,11 @@ C:\Users\User\Documents\GitHub\DevsuE2E\DevsuE2E\bin\Release\net6.0\Microsoft.Te
 C:\Users\User\Documents\GitHub\DevsuE2E\DevsuE2E\bin\Release\net6.0\Microsoft.TestPlatform.CrossPlatEngine.dll
 C:\Users\User\Documents\GitHub\DevsuE2E\DevsuE2E\bin\Release\net6.0\Microsoft.TestPlatform.Utilities.dll
 C:\Users\User\Documents\GitHub\DevsuE2E\DevsuE2E\bin\Release\net6.0\Microsoft.VisualStudio.TestPlatform.Common.dll
-C:\Users\User\Documents\GitHub\DevsuE2E\DevsuE2E\bin\Release\net6.0\Microsoft.Win32.SystemEvents.dll
 C:\Users\User\Documents\GitHub\DevsuE2E\DevsuE2E\bin\Release\net6.0\Newtonsoft.Json.dll
 C:\Users\User\Documents\GitHub\DevsuE2E\DevsuE2E\bin\Release\net6.0\NuGet.Frameworks.dll
 C:\Users\User\Documents\GitHub\DevsuE2E\DevsuE2E\bin\Release\net6.0\nunit.framework.dll
 C:\Users\User\Documents\GitHub\DevsuE2E\DevsuE2E\bin\Release\net6.0\WebDriver.Support.dll
 C:\Users\User\Documents\GitHub\DevsuE2E\DevsuE2E\bin\Release\net6.0\WebDriver.dll
-C:\Users\User\Documents\GitHub\DevsuE2E\DevsuE2E\bin\Release\net6.0\System.Drawing.Common.dll
 C:\Users\User\Documents\GitHub\DevsuE2E\DevsuE2E\bin\Release\net6.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
 C:\Users\User\Documents\GitHub\DevsuE2E\DevsuE2E\bin\Release\net6.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
 C:\Users\User\Documents\GitHub\DevsuE2E\DevsuE2E\bin\Release\net6.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
@@ -95,8 +93,6 @@ C:\Users\User\Documents\GitHub\DevsuE2E\DevsuE2E\bin\Release\net6.0\zh-Hans\Micr
 C:\Users\User\Documents\GitHub\DevsuE2E\DevsuE2E\bin\Release\net6.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
 C:\Users\User\Documents\GitHub\DevsuE2E\DevsuE2E\bin\Release\net6.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
 C:\Users\User\Documents\GitHub\DevsuE2E\DevsuE2E\bin\Release\net6.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
-C:\Users\User\Documents\GitHub\DevsuE2E\DevsuE2E\bin\Release\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
-C:\Users\User\Documents\GitHub\DevsuE2E\DevsuE2E\bin\Release\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
 C:\Users\User\Documents\GitHub\DevsuE2E\DevsuE2E\obj\Release\net6.0\DevsuE2E.csproj.AssemblyReference.cache
 C:\Users\User\Documents\GitHub\DevsuE2E\DevsuE2E\obj\Release\net6.0\DevsuE2E.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\User\Documents\GitHub\DevsuE2E\DevsuE2E\obj\Release\net6.0\DevsuE2E.AssemblyInfoInputs.cache
@@ -108,3 +104,4 @@ C:\Users\User\Documents\GitHub\DevsuE2E\DevsuE2E\obj\Release\net6.0\refint\Devsu
 C:\Users\User\Documents\GitHub\DevsuE2E\DevsuE2E\obj\Release\net6.0\DevsuE2E.pdb
 C:\Users\User\Documents\GitHub\DevsuE2E\DevsuE2E\obj\Release\net6.0\DevsuE2E.genruntimeconfig.cache
 C:\Users\User\Documents\GitHub\DevsuE2E\DevsuE2E\obj\Release\net6.0\ref\DevsuE2E.dll
+C:\Users\User\Documents\GitHub\DevsuE2E\DevsuE2E\bin\Release\net6.0\nunit.framework.legacy.dll

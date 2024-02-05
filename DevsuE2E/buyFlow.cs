@@ -114,10 +114,12 @@ namespace DevsuE2E
             IWebElement okbt = driver.FindElement(By.CssSelector("button.confirm.btn.btn-lg.btn-primary"));
             okbt.Submit();
             //close brower to end the test
-            Close();
+           //Close();
             Assert.Pass();
 
         }
+
+        [OneTimeTearDown]
         public void Close()
         {
 
